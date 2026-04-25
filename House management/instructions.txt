@@ -1,0 +1,9 @@
+1. Extract the `APP_HCI_VISTULA_Project.zip` file to the `htdocs` folder in XAMPP.
+2. Open `phpMyAdmin` (http://localhost/phpmyadmin/).
+3. Create a new database named `house_management`.
+4. Import the provided `house_management.sql` file into the new database.
+5. Start XAMPP (Apache and MySQL).
+6. Open the browser and go to `http://localhost/APP_HCI_VISTULA/login.php`.
+7. Use the following credentials to log in:
+   - Username: `admin`
+   - Password: `admin1234`
